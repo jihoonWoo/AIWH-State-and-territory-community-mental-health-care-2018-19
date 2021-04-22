@@ -7,3 +7,4 @@ The data "State and territory community mental health care 2018-19" is originall
 The Jupyter Notebook is a written Python program language that reads the AIHW data to transform into a required format for data insight generation.
 
 
+Cite the code:[![DOI](https://zenodo.org/badge/360356385.svg)](https://zenodo.org/badge/latestdoi/360356385)
